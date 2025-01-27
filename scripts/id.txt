@@ -1,0 +1,7 @@
+# Configure Entrez
+Entrez.email = "leon.lenzo.1@gmail.com"
+Entrez.tool = "GeneToUniProtMapper"
+
+# Input and output file paths
+input_file = "./id.map.test.txt"  # Plain text file with Gene IDs (one per line)
+output_file = "gene_to_uniprot_mapping.csv"
