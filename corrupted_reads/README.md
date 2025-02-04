@@ -10,7 +10,9 @@ seqkit sana inplanta-3KO-022-R1.fastq.gz -o inplanta-3KO-022-R1.rescued.fastq.gz
 | Corrupted files              | Pass records | Discarded lines |
 |------------------------------|--------------|-----------------|
 | inplanta-3KO-020-R2.fastq.gz | 183114948    | 107355330       |
+| inplanta-3KO-021-R1.fastq.gz | 13985548     | 562139186       |
 | inplanta-3KO-022-R1.fastq.gz | 168329945    | 136665612       |
+| inplanta-3KO-022-R2.fastq.gz | 43571873     | 1043067433      |
 | inplanta-3KO-023-R2.fastq.gz | 276989110    | 89199061        |
 
 Example output
